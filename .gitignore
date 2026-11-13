@@ -1,0 +1,33 @@
+# Environment and secrets
+.venv/
+.env
+*.env
+!.env.example
+
+# Data (never commit datasets)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Model weights (never commit)
+models/*
+!models/.gitkeep
+*.h5
+*.keras
+*.pb
+*.safetensors
+*.bin
+*.ckpt
+saved_model/
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
