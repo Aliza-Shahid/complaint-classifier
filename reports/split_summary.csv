@@ -1,0 +1,9 @@
+label,train,val,test,total
+Credit reporting,10969,2351,2350,15670
+Debt collection,7349,1575,1575,10499
+Credit card,5224,1119,1119,7462
+Checking or savings account,5202,1115,1115,7432
+Mortgage,2168,465,465,3098
+Money transfer,1757,377,377,2511
+Student loan,1384,297,296,1977
+Vehicle loan or lease,1282,274,275,1831

@@ -1,0 +1,7 @@
+split,similarity>=,before_%,after_%
+val,0.95,6.7,0.1
+val,0.9,10.9,0.3
+val,0.8,16.1,2.0
+test,0.95,6.1,0.1
+test,0.9,10.2,0.3
+test,0.8,15.5,1.6
